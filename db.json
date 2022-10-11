@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Check PR",
+      "other": "no-show",
+      "day": "October 31st",
+      "reminder": true
+    },
+    {
+      "text": "Refactor ToDo List",
+      "day": "Jan 1st, 2025",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}

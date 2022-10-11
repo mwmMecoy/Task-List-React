@@ -1,9 +1,9 @@
 # React ToDo App
-A small application developed to further knowledge of component creation in React and designed to be used locally to keep track of tasks to complete that day.
+A small application developed to further knowledge of component creation in React and designed to be used locally to keep track of tasks.
 
 <!-- **Link to project:**  -->
 
-<!-- ![alt tag](http://placecorgi.com/1200/650) -->
+![alt tag](https://ibb.co/KqcdsTF)
 
 ## How It's Made:
 
@@ -11,5 +11,5 @@ A small application developed to further knowledge of component creation in Reac
 
 ## Lessons Learned:
 
-Completed as a replacement to my previous task tracker, allowed me to expand my knowledge of React components and handle them being added/removed from an application.
+Completed as a replacement to my previous task tracker, allowed me to expand my knowledge of React components and handle them being added/removed from an application. Usage of using a local json server that creates its own db.json folder.
 
