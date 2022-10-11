@@ -3,7 +3,7 @@ A small application developed to further knowledge of component creation in Reac
 
 <!-- **Link to project:**  -->
 
-![alt tag](https://ibb.co/KqcdsTF)
+![alt tag](https://i.ibb.co/Xsf15cS/2022-10-10-23h45-27.png)
 
 ## How It's Made:
 
